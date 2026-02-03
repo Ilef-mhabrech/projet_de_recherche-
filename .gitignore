@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+cache/
+
+/output/
+logs/
+.DS_Store
+scan_entities.pygraphrag_quickstart/.env
+graphrag_quickstart/cache/
+graphrag_quickstart/logs/
+graphrag_quickstart/.venv/
