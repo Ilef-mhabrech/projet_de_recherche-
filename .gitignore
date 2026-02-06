@@ -178,3 +178,9 @@ scan_entities.pygraphrag_quickstart/.env
 graphrag_quickstart/cache/
 graphrag_quickstart/logs/
 graphrag_quickstart/.venv/
+graphrag_quickstart/venv/
+
+# GraphRAG temporary files (keep output/ for pre-built indexes)
+graphrag_quickstart/cache/
+graphrag_quickstart/logs/
+graphrag_quickstart/.env
